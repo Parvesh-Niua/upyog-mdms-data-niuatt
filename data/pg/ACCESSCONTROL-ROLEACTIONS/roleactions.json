@@ -39523,6 +39523,12 @@
       "actionid": 4813,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 4814,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }

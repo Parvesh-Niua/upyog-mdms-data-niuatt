@@ -31377,6 +31377,20 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
+    },
+    {
+      "id": 4814,
+      "name": "Is logged in user is HOF or not",
+      "url": "/family/v1/head/_isHof",
+      "displayName": "Is logged in user is HOF or not",
+      "orderNumber": 0,
+      "queryParams": "",
+      "parentModule": "User",
+      "enabled": true,
+      "serviceCode": "upyog-family-service",
+      "code": "null",
+      "path": "",
+      "navigationURL": ""
     }
   ]
 }
