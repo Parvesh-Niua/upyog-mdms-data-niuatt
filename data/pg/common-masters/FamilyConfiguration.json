@@ -1,0 +1,27 @@
+{
+    "tenantId": "pg",
+    "moduleName": "common-masters",
+    "FamilyConfiguration": [
+        {
+            "code": "UPYOG_INTERNAL",
+            "name": "UPYOG Native Internal Family Lifecycle",
+            "isFamilySupported": true,
+            "familyType": "UPYOG_INTERNAL",
+            "active": true
+        },
+        {
+            "code": "STATE_REGISTRY",
+            "name": "State Family Registry (e.g. Haryana PPP)",
+            "isFamilySupported": true,
+            "familyType": "STATE_REGISTRY",
+            "active": false
+        },
+        {
+            "code": "NONE",
+            "name": "No Family Concept (Standalone Citizen Only)",
+            "isFamilySupported": false,
+            "familyType": "NONE",
+            "active": false
+        }
+    ]
+}

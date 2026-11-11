@@ -835,12 +835,32 @@
             "idname": "ndc.receipt.id"
         },
         {
-            "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
+            "format": "GC-AP-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
             "idname": "garbage.application.num"
+        },
+        {
+            "format": "GC-[CITY.CODE]-[fy:yyyy-yy]-[SEQ_EGOV_COMMON]",
+            "idname": "garbage.garbage.num"
         },
         {
             "format": "GC/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "garbage-service.receipt.id"
+        },
+        {
+            "format": "FAM-[cy:yyyy]-[seq_family_id]",
+            "idname": "family.id"
+        },
+        {
+            "format": "MEM-[cy:yyyy]-[seq_family_member_id]",
+            "idname": "family.member.id"
+        },
+        {
+            "format": "CITIZEN-[cy:yyyy]-[seq_citizen_id]",
+            "idname": "user.citizen.id"
+        },
+        {
+            "format": "DOC-[cy:yyyy]-[seq_user_doc_id]",
+            "idname": "user.document.id"
         }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "tenantId": "pg",
+    "moduleName": "FamilyCreateType",
+    "FamilyOptions": [
+      {
+        "name": "Create Family",
+        "code": "PROFILE_CREATE_FAMILY",
+        "active": true
+      },
+      {
+        "name": "Join Existing Family",
+        "code": "PROFILE_JOIN_EXISTING_FAMILY",
+        "active": true
+      },
+      {
+        "name": "Family Dashboard",
+        "code": "PROFILE_FAMILY_DASHBOARD",
+        "active": true
+      }
+    ]
+}
